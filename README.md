@@ -27,6 +27,6 @@ Deployed program ID and frontend link are in `sol-tipping-dapp/README.md`.
 
 ## Graduation
 
-![graduate](graduate-s8.png)
+![graduate](graduate-s8.jpg)
 
 Thanks to Ackee and the Solana ecosystem mentors!

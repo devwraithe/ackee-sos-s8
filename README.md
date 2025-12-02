@@ -1,32 +1,43 @@
-# Ackee School of Solana - Season 8
+# Ackee School of Solana – Season 8
 
-This repository collects all my completed tasks and projects from **Ackee School of Solana Season 8** (graduated December 2025).
+Centralized showcase of all my completed work from **Ackee School of Solana Season 8**  
+Graduated December 2025
 
-It serves as a centralized showcase of my work during the program.
+![Graduation Certificate](graduate-s8.jpg)
 
-## Contents
+## Bootcamp Overview
+- **Duration**: ~6 weeks (self-paced)  
+- **Level**: Intermediate Rust & Solana development  
+- **Focus**: Progressive hands-on tasks covering core Solana program development  
+- **Tooling**: Rust 🦀, Anchor 🛠, Solana CLI, TypeScript tests, React + Wallet Adapter  
+- **Certification**: NFT certificate on Solana upon completion
 
-| Folder              | Description                                                    |
-| ------------------- | -------------------------------------------------------------- |
-| `task-01/`          | Task 1 – [Short title/description]                             |
-| `task-02/`          | Task 2 – [Short title/description]                             |
-| `task-03/`          | Task 3 – [Short title/description]                             |
-| `task-04/`          | Task 4 – [Short title/description]                             |
-| `task-05/`          | Task 5 – [Short title/description]                             |
-| `sol-tipping-dapp/` | Final capstone project – SOL Tipping dApp (built from scratch) |
+## Repository Contents
 
-Each task folder contains its own `README.md` with the original assignment, my solution explanation, and deployment links (where applicable).
+| Folder               | Description                                                            |
+|----------------------|------------------------------------------------------------------------|
+| `task-01/`           | Task 1 – [Intro to Solana & Blockchain]                                    |
+| `task-02/`           | Task 2 – [Rust Intro]                                    |
+| `task-03/`           | Task 3 – [Solana Programming Model I]                                    |
+| `task-04/`           | Task 4 – [Solana Programming Model II]                                    |
+| `task-05/`           | Task 5 – [Best Dev & Debug Practices]                                    |
+| `sol-tipping-dapp/`  | **Capstone Project** – Fully functional SOL Tipping dApp |
 
-The **SOL Tipping dApp** is a fully functional on-chain tipping program on Solana Devnet with Anchor framework, including:
+Each task folder includes its own detailed `README.md` with:
+- Original assignment
+- Complete solution & explanations
+- Deployment details / on-chain links (where applicable)
 
-- Program (on-chain)
-- TypeScript client tests
-- Simple React + Wallet Adapter frontend
+The **SOL Tipping dApp** is a complete on-chain tipping program deployed on Devnet:
+- Anchor-based Rust program
+- TypeScript tests
+- React + Wallet Adapter frontend
 
-Deployed program ID and frontend link are in `sol-tipping-dapp/README.md`.
+Live program ID and demo → see `sol-tipping-dapp/README.md`
 
 ## Graduation
 
-![graduate](graduate-s8.jpg)
+Successfully completed **Ackee School of Solana Season 8** – December 2025  
+NFT Certificate minted on Solana
 
-Thanks to Ackee and the Solana ecosystem mentors!
+Huge thanks to the Ackee team and all mentors in the Solana ecosystem!
